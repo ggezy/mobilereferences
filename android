@@ -1,0 +1,10 @@
+Android:
+https://grepharder.github.io/blog/0x02_learning_frida_by_failing.html
+https://book.hacktricks.xyz/mobile-apps-pentesting/android-app-pentesting/frida-tutorial/objection-tutorial
+https://medium.com/@GowthamR1/android-root-detection-bypass-using-objection-and-frida-scripts-d681d30659a7
+https://www.trustedsec.com/blog/mobile-hacking-using-frida-to-monitor-encryption/
+https://sensepost.com/blog/2017/objection-mobile-runtime-exploration/
+
+Frida on non rooted device:
+https://lief.quarkslab.com/doc/stable/tutorials/09_frida_lief.html
+https://github.com/sensepost/objection/wiki/Patching-Android-Applications
